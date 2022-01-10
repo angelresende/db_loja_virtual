@@ -4,7 +4,7 @@
 
 </h1>
 
-<h2 align="center" style="color:black"> Layout da Interface
+<h2 align="center" style="color:black"> Diagrama Entidade Relacionamento (DER)
 <h2>
 
 <h2 align="center">
